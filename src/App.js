@@ -10,6 +10,7 @@ function App() {
       <header className="App-header">
         {helper1() && helper2()}
         <p>Feature one wit some different stuff</p>
+        <p>Feature two wit some different stuff</p>
       </header>
     </div>
   );
