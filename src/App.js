@@ -10,7 +10,7 @@ function App() {
       <header className="App-header">
         {helper1() && helper2()}
         <p>Feature one wit some different stuff</p>
-        <p>Feature 3 wit some different stuff</p>
+        <a>feature 3 completely diff </a>
         <p>Feature two wit some different stuff</p>
       </header>
     </div>
